@@ -65,5 +65,22 @@ https://github.com/A206730-aaa/A206730_CAOYUNHAN_CikguIzwan_LAB5
 
 ---
 
+## Project 1
+
+Video:
+https://youtu.be/jv12Oqh6iiA?si=k5N1Xpp8sEohIey8
+
+Github:
+https://github.com/A206730-aaa/A206730-CAOYUNHAN-CikguIzwan-projact1.git
+
+---
+
 ## Project 2
-Coming Soon
+
+
+Video:
+https://youtu.be/8gp9Vhkasf8?si=gXCvkN-9IYjYwV2n
+
+Github:
+https://github.com/A206730-aaa/A206730_CAOYUNHAN_CikguIzwan_Project2.git
+
