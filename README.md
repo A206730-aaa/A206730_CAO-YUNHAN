@@ -79,7 +79,7 @@ https://github.com/A206730-aaa/A206730-CAOYUNHAN-CikguIzwan-projact1.git
 
 
 Video:
-https://youtu.be/8gp9Vhkasf8?si=gXCvkN-9IYjYwV2n
+https://youtu.be/nz_8taTlaNM?si=q25oZaUC7qeKNTOE
 
 Github:
 https://github.com/A206730-aaa/A206730_CAOYUNHAN_CikguIzwan_Project2.git
